@@ -7,11 +7,15 @@ lib-cov
 *.out
 *.pid
 *.gz
-
+*.old
+*.zip
 pids
 logs
 results
-
 node_modules
 npm-debug.log
 client/public
+build/*
+docs
+dev
+scripts
